@@ -62,8 +62,9 @@ Base de données
 
 ## Schéma de base de données
 
-Un schéma de base de données sera ajouté afin de présenter l’organisation des tables et les relations entre les différentes entités (utilisateurs, producteurs, produits, commandes).
+Voici le schéma de base de données utilisé pour organiser les informations du site (utilisateurs, fermes, produits, commandes, paiements, etc.).
 
+![Schema base de données](docs/schema-base-donnees.png)
 ---
 
 ## Statut du projet
